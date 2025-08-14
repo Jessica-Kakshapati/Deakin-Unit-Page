@@ -24,6 +24,17 @@ p {
 }
 
 .header img {
-  height: 50px;
+  height: 50px; /* Or adjust to fit the design */
+  margin-right: 10px;
+}
+@media screen and (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .header img {
+    margin-bottom: 10px;
+  }
 }
 
