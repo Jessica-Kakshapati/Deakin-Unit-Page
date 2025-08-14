@@ -16,4 +16,14 @@ p {
   font-family: Arial
 }
 
+.header {
+  background-color: #003366;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.header img {
+  height: 50px;
+}
 
