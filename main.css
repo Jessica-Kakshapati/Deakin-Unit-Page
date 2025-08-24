@@ -28,6 +28,11 @@ tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 
+div {
+  background-color: blue;
+  text-align: right;
+}
+
 .header {
   background-color: #003366;
   padding: 10px;
