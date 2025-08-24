@@ -16,6 +16,11 @@ p {
   font-family: Arial
 }
 
+div {
+  background-color: blue;
+  text-align: right;
+}
+
 .header {
   background-color: #003366;
   padding: 10px;
